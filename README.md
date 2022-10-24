@@ -1,5 +1,4 @@
 ## Hi there 👋 I`m Railia
-#### Software Development Engineer
 
 🌱 I’m currently studying web development at [RSSchool](https://rs.school/)
 
