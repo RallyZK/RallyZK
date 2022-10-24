@@ -16,7 +16,7 @@
 - [**ee16.ru**](http://ee16.ru/) Refinement, site content, editing the site on WordPress
 - [**etl16.tilda.ws**](http://etl16.tilda.ws/) Creating and content the site on Tilda
 
-🎫 **Certificates:**
+📋 **Certificates:**
 - [**RS School**](https://app.rs.school/certificate/pv244kxd) JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)
 - [**EF SET**](https://www.efset.org/cert/4BzWY1) English level B2 Upper Intermediate (60/100 on the EF SET score scale)
 
