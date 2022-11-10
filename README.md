@@ -7,6 +7,7 @@
 📁 **My projects:**
 
 - [**Momentum APP**](https://rolling-scopes-school.github.io/rallyzk-JSFEPRESCHOOL2022Q2/momentum/) Analogue of the application of the same name in Google Chrome with weather, audioplayer, ToDo list, time, greeting and etc.
+- [**SongBird**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/SongBird/) Quiz for recognizing birds by their voices
 - [**Gem Puzzle**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/Gem-Puzzle/) Classic game - goal is to arrange moving numbered tiles by order
 - [**Eldritch Horror Game Helper**](https://rallyzk.github.io/eldritch-codejam/) Creating cards shuffle algorithm for Eldritch Horror board game
 - [**Online ZOO**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/online-zoo/pages/main/) Two-page ZOO website with adaptive layout, Slider, Burger menu, PopUp and etc.
