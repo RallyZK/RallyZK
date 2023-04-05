@@ -6,7 +6,7 @@
 
 📁 **My projects:**
 
-- [**RaViOle Booking**](https://rs-clone-raviole-booking.netlify.app/) Service for online reservation of tables in restaurants wih own Backend. Team work. Test account: Login TestUser, Password 123456. Stack: TS, React, Tailwind.
+- [**RaViOle Booking**](https://rs-clone-raviole-booking.netlify.app/) Service for online reservation of tables in restaurants with own Backend. Team work. Test account: Login TestUser, Password 123456. Stack: TS, React, Tailwind.
 - [**Momentum APP**](https://rolling-scopes-school.github.io/rallyzk-JSFEPRESCHOOL2022Q2/momentum/) Analogue of the application of the same name in Google Chrome with weather, audioplayer, ToDo list, time, greeting and etc. Stack: pure JS, CSS
 - [**SongBird**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/SongBird/) Quiz for recognizing birds by their voices. Stack: pure JS, Sass, Webpack
 - [**Gem Puzzle**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/Gem-Puzzle/) Classic game - goal is to arrange moving numbered tiles by order. Stack: pure JS, Sass
