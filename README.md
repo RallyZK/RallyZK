@@ -1,6 +1,7 @@
-## Hi there 👋 I`m Railya
+## Hi there 👋 I`m Railia
 
 🌱 I’m currently studying web development at [RSSchool](https://rs.school/)
+#opentowork
 
 ***
 
