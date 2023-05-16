@@ -13,11 +13,11 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
@@ -26,12 +26,12 @@
 
 📁 **My projects:**
 
-- [**RaViOle Booking**](https://rs-clone-raviole-booking.netlify.app/) Service for online reservation of tables in restaurants with own Backend. Team work. Test account: Login TestUser, Password 123456. Stack: TS, React, Tailwind.
-- [**Momentum APP**](https://rolling-scopes-school.github.io/rallyzk-JSFEPRESCHOOL2022Q2/momentum/) Analogue of the application of the same name in Google Chrome with weather, audioplayer, ToDo list, time, greeting and etc. Stack: pure JS, CSS
-- [**SongBird**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/SongBird/) Quiz for recognizing birds by their voices. Stack: pure JS, Sass, Webpack
-- [**Gem Puzzle**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/Gem-Puzzle/) Classic game - goal is to arrange moving numbered tiles by order. Stack: pure JS, Sass
-- [**Eldritch Horror Game Helper**](https://rallyzk.github.io/eldritch-codejam/) Creating cards shuffle algorithm for Eldritch Horror board game. Stack: pure JS, CSS
-- [**Online ZOO**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/online-zoo/pages/main/) Two-page ZOO website with adaptive layout, Slider on pure JS, Burger menu, PopUp and etc. Stack: pure JS, CSS
+- [**RaViOle Booking**](https://rs-clone-raviole-booking.netlify.app/) Service for online reservation of tables in restaurants with own Backend. Team work. Test account: Login TestUser, Password 123456. (TS, React, Tailwind)
+- [**Momentum APP**](https://rolling-scopes-school.github.io/rallyzk-JSFEPRESCHOOL2022Q2/momentum/) Analogue of the application of the same name in Google Chrome with weather, audioplayer, ToDo list, time, greeting and etc. (JS, CSS)
+- [**SongBird**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/SongBird/) Quiz for recognizing birds by their voices. (JS, SCSS, Webpack)
+- [**Gem Puzzle**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/Gem-Puzzle/) Classic game - goal is to arrange moving numbered tiles by order. (JS, SCSS)
+- [**Eldritch Horror Game Helper**](https://rallyzk.github.io/eldritch-codejam/) Creating cards shuffle algorithm for Eldritch Horror board game. (JS, CSS)
+- [**Online ZOO**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/online-zoo/pages/main/) Two-page ZOO website with adaptive layout, Slider on pure JS, Burger menu, PopUp and etc. (JS, CSS)
 
 
 📋 **Certificates:**
