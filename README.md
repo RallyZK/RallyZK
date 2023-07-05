@@ -27,16 +27,18 @@
 
 📁 **My projects:**
 
-- [**RaViOle Booking**](https://rs-clone-raviole-booking.netlify.app/) Service for online reservation of tables in restaurants with own Backend. Team work. (TS, React, Tailwind)
+- [**RaViOle Booking**](https://rs-clone-raviole-booking.netlify.app/) Service for online reservation of tables in restaurants with own Backend. Team work. (TS, React, Tailwind) [Project GitHub](https://github.com/trenkenshu/Restaurants-UI)
+- [**GraphiQL**](https://graphiql-rs-app.netlify.app/) Playground/IDE for graphQL requests, final project on the React 2023 Q1 course. Team work (TS, React, Ant Design, Redux Toolkit, RTK Query, i18next) [Project GitHub](https://github.com/wowblvck/graphiql-app)
 - [**Momentum APP**](https://rolling-scopes-school.github.io/rallyzk-JSFEPRESCHOOL2022Q2/momentum/) Analogue of the application of the same name in Google Chrome with weather, audioplayer, ToDo list, time, greeting and etc. (JS, CSS)
-- [**SongBird**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/SongBird/) Quiz for recognizing birds by their voices. (JS, SCSS, Webpack)
-- [**Gem Puzzle**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/Gem-Puzzle/) Classic game - goal is to arrange moving numbered tiles by order. (JS, SCSS)
+- [**SongBird**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/SongBird/) Quiz for recognizing birds by their voices. (JS, SCSS, Webpack) [Project GitHub](https://github.com/rolling-scopes-school/rallyzk-JSFE2022Q3/tree/songbird)
+- [**Gem Puzzle**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/Gem-Puzzle/) Classic game - goal is to arrange moving numbered tiles by order. (JS, SCSS) [Project GitHub](https://github.com/rolling-scopes-school/rallyzk-JSFE2022Q3/tree/gem-puzzle)
 - [**Eldritch Horror Game Helper**](https://rallyzk.github.io/eldritch-codejam/) Creating cards shuffle algorithm for Eldritch Horror board game. (JS, CSS)
 - [**Online ZOO**](https://rolling-scopes-school.github.io/rallyzk-JSFE2022Q3/online-zoo/pages/main/) Two-page ZOO website with adaptive layout, Slider on pure JS, Burger menu, PopUp and etc. (JS, CSS)
 
 
 📋 **Certificates:**
 - [**RS School**](https://app.rs.school/certificate/1nbtdhy5) JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT)
+- [**RS School**](https://app.rs.school/certificate/58czzyb3) React 2023 Q1
 - [**RS School**](https://app.rs.school/certificate/pv244kxd) JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)
 - [**EF SET**](https://www.efset.org/cert/4BzWY1) English level B2 Upper Intermediate
 
